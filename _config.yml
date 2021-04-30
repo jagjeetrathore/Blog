@@ -1,0 +1,9 @@
+# Site settings
+title:  Data Science Blog 
+author:
+  name: Jagjeet Rathore
+  email: jagjeet@domain.com
+description: "Classification Metrics Concepts"
+
+# Build settings
+remote_theme: jekyll/minima
