@@ -1,9 +1,9 @@
 # Site settings
 title: Great New Blog Title
 author:
-  name: Evan Will
-  email: your-email@domain.com
-description: "Great site about Jekyll on GH-Pages."
+  name: Jagjeet Rathore
+  email: jagjeetrathore@domain.com
+description: "Great site about classification on GitHub-Pages."
 
 # Build settings
 remote_theme: jekyll/minima
