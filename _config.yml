@@ -1,9 +1,10 @@
 # Site settings
-title:  Data Science Blog 
+title: Great New Blog Title
 author:
-  name: Jagjeet Rathore
-  email: jagjeet@domain.com
-description: "Classification Metrics Concepts"
+  name: Evan Will
+  email: your-email@domain.com
+description: "Great site about Jekyll on GH-Pages."
 
 # Build settings
 remote_theme: jekyll/minima
+
